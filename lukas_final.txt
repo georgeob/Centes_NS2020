@@ -1,4 +1,3 @@
-Spatial Distribution,Processor Utilization,Channel Utilization,Input Waiting Time,Channel Waiting Time
 UN,0.839546,0.352431,308.491814,1.974686
 UN,0.827412,0.506302,291.037663,9.556437
 UN,0.802605,0.638516,264.928002,27.027618
